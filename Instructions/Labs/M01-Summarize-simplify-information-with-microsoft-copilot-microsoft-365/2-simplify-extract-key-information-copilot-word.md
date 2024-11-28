@@ -11,7 +11,7 @@ Dalam contoh berikut, kami mengubah permintaan dasar untuk Copilot di Word menja
 
 ## Mari kita mulai membuat kerajinan tangan
 
-Pertama, unduh **_[Laporan Analisis Pasar untuk Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)_** dan simpan file ke folder** OneDrive Anda** jika Anda belum melakukannya.
+Pertama, unduh **_[Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)_**, lalu simpan file tersebut ke folder** OneDrive Anda**, jika hal tersebut belum dilakukan.
 
 Buka dokumen di Word lalu buka panel **Copilot** dengan memilih ikon Copilot di tab **Beranda** pita. Masukkan perintah di bawah ini dan ikuti.
 
