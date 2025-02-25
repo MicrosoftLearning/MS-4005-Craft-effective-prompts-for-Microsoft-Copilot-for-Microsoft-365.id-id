@@ -15,7 +15,7 @@ Ubah rentang sel dengan cepat menjadi tabel Excel dengan mengikuti langkah-langk
 
 1. Pilih **OK**.
 
-![Cuplikan layar panel Copilot di Excel saat pertama kali dibuka.](../media/copilot-pane-Excel.png)
+![Cuplikan layar panel Copilot di Excel saat pertama kali dibuka.](../media/copilot-pane-excel.png)
 
 ## Mari kita mulai membuat kerajinan tangan
 
