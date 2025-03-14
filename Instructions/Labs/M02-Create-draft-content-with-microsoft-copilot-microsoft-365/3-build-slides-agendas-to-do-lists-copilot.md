@@ -1,12 +1,14 @@
-Microsoft 365 Copilot di PowerPoint adalah fitur dengan dukungan AI yang dapat membantu Anda membuat, mendesain, dan memformat slide Anda.  Anda dapat mengetik apa yang ingin Anda sampaikan dengan presentasi Anda, dan Copilot membantu Anda menyelesaikannya. 
+# Membuat slide, agenda, dan daftar tugas baru dengan Microsoft 365 Copilot di PowerPoint
+
+Microsoft 365 Copilot di PowerPoint adalah fitur dengan dukungan AI yang dapat membantu Anda membuat, mendesain, dan memformat slide Anda.  Anda dapat mengetik apa yang ingin Anda sampaikan dengan presentasi Anda, dan Copilot membantu Anda menyelesaikannya.
 
 Salinan dapat membantu Anda melewati slide kosong awal tersebut dan membuat Anda bergerak ke arah yang benar. Untuk mulai menggunakan Copilot di PowerPoint, Anda dapat membuka panel **Copilot** melalui ikon Copilot pada tab **Beranda** di pita.
 
-![Tangkapan layar ikon Copilot di pita PowerPoint.](../media/copilot-ribbon-powerpoint.png)
+![Tangkapan layar ikon Copilot di pita PowerPoint.](../media/create_copilot-ribbon-powerpoint.png)
 
 Dari panel Copilot, Anda bisa mulai membuat presentasi baru dari dokumen Word atau tentang topik yang diinginkan. Dalam contoh, kita mulai dengan permintaan dasar untuk membuat presentasi tentang topik dan menambahkan elemen lain untuk membuat perintah lebih kuat.
 
-![Tangkapan layar panel Copilot di PowerPoint saat pertama kali dibuka.](../media/copilot-pane-powerpoint.png)
+![Tangkapan layar panel Copilot di PowerPoint saat pertama kali dibuka.](../media/create_copilot-pane-powerpoint.png)
 
 > [!TIP]
 > Saat ini, Copilot di PowerPoint hanya dapat membuat presentasi dari dokumen Word.
@@ -26,17 +28,15 @@ Dalam perintah sederhana ini, Anda mulai dengan **Tujuan**: dasar: _untuk membua
 
 | Elemen | Contoh |
 | :------ | :------- |
-| Perintah dasar: <br>Mulai dengan **Tujuan** | **_Membuat presentasi PowerPoint baru._** |
-| Perintah yang baik: <br>Tambahkan **Konteks** | Menambahkan **Konteks** dapat membantu Copilot memahami jenis dokumen apa yang ingin Anda buat dan untuk apa dokumen tersebut akan digunakan.<br><br>“_Kami perlu mempresentasikan fitur dan manfaat produk kepada calon klien_” |
-| Perintah yang lebih baik: <br>Tentukan **Sumber** | Menambahkan **Sumber** dapat membantu Copilot tempat mencari informasi tertentu.<br><br>"_... menggunakan yang terbaru dari **/ Laporan Tren Pasar- Protein shake.docx**._" |
-| Perintah terbaik: <br>Tetapkan dengan jelas **Harapan** | Terakhir, menambahkan **Harapan** dapat membantu Copilot memahami bagaimana Anda ingin dokumen ditulis dan diformat.<br><br>"_Harap sertakan ikhtisar produk, fitur dan manfaat utamanya, serta perbandingannya dengan produk serupa di pasar. Mohon gunakan bahasa yang sederhana._" |
+| **Perintah dasar:** Mulai dengan **Tujuan** | **_Membuat presentasi PowerPoint baru._** |
+| **Perintah yang baik:** Tambahkan **Konteks** | Menambahkan **Konteks** dapat membantu Copilot memahami jenis dokumen apa yang ingin Anda buat dan untuk apa dokumen tersebut akan digunakan. _“Kita perlu mempresentasikan fitur dan manfaat produk kepada calon klien”_ |
+| **Perintah yang lebih baik:** Tentukan **Sumber** | Menambahkan **Sumber** dapat membantu Copilot mengetahui di mana mencari informasi tertentu. _"... menggunakan informasi terbaru dari **/Market Trend Report- Protein shake.docx**."_ |
+| **Perintah terbaik:** Berikan **Ekspektasi** yang jelas | Terakhir, menambahkan **Harapan** dapat membantu Copilot memahami bagaimana Anda ingin dokumen ditulis dan diformat. _"Harap sertakan ikhtisar produk, fitur dan manfaat utamanya, serta perbandingannya dengan produk serupa di pasar. Mohon gunakan bahasa yang sederhana."_ |
 
 > [!NOTE]
 > **Perintah yang dibuat**:
 >
-> _Buat presentasi PowerPoint baru menggunakan yang terbaru dari **/Market Trend Report- Protein shake.docx**. Kami perlu menyajikan fitur dan manfaat produk kepada klien potensial. Harap sertakan gambaran umum produk, fitur dan manfaat utamanya, dan perbandingan dengan produk serupa di pasar. Silakan gunakan bahasa sederhana._
-
-[![Cuplikan layar hasil permintaan yang dibuat terhadap dokumen sampel menggunakan Copilot di PowerPoint.](../media/copilot-draft-results-powerpoint.png)](../media/copilot-draft-results-powerpoint.png#lightbox)
+> _Buat presentasi PowerPoint baru menggunakan informasi terbaru dari **/Market Trend Report- Protein shake.docx**. Kita perlu menyajikan fitur dan manfaat produk kepada klien potensial. Harap sertakan gambaran umum produk, fitur dan manfaat utamanya, dan perbandingan dengan produk serupa di pasar. Mohon gunakan bahasa sederhana._
 
 Dengan **Tujuan**, **Konteks**, **Sumber**, dan **Harapan** yang telah disiapkan, Copilot memiliki semua yang dibutuhkan untuk memberikan respons yang baik.
 

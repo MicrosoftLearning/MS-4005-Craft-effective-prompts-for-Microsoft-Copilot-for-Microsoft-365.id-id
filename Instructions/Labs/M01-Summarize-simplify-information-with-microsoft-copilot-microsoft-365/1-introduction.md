@@ -1,3 +1,4 @@
+# Pengantar
 
 Dalam modul ini, Anda akan mempelajari cara membuat perintah kontekstual yang efektif untuk Microsoft 365 Copilot untuk **merangkum** informasi di aplikasi Microsoft 365. Jika Anda ingin meningkatkan keterampilan yang diminta untuk Copilot, modul ini membekali Anda dengan pengetahuan dan teknik untuk membuat permintaan yang menghasilkan hasil yang akurat dan bermanfaat dari Microsoft 365 Copilot.
 

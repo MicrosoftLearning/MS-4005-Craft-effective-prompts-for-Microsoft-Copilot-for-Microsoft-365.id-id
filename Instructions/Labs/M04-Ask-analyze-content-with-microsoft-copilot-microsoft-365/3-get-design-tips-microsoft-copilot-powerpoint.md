@@ -1,10 +1,12 @@
+# Dapatkan tips desain dan penataan dengan Microsoft 365 Copilot di PowerPoint
+
 Untuk mulai menggunakan Copilot di PowerPoint, Anda bisa membuka panel **Copilot** dengan memilih ikon Copilot di tab pita **Beranda** .
 
-![Tangkapan layar ikon Copilot di pita PowerPoint.](../media/copilot-ribbon-powerpoint.png)
+![Tangkapan layar ikon Copilot di pita PowerPoint.](../media/ask_copilot-ribbon-powerpoint.png)
 
-Saat membuat presentasi, Anda mungkin tidak yakin tentang cara menata slide Anda ke dalam bagian. Copilot di PowerPoint dapat membantu. Anda dapat meminta Copilot untuk mengatur presentasi Anda. Ini mengaturnya ke dalam bagian, lalu menambahkan slide judul bagian. 
+Saat membuat presentasi, Anda mungkin tidak yakin tentang cara menata slide Anda ke dalam bagian. Copilot di PowerPoint dapat membantu. Anda dapat meminta Copilot untuk mengatur presentasi Anda. Ini mengaturnya ke dalam bagian, lalu menambahkan slide judul bagian.
 
-![Tangkapan layar panel Copilot di PowerPoint saat pertama kali dibuka.](../media/copilot-pane-powerpoint.png)
+![Tangkapan layar panel Copilot di PowerPoint saat pertama kali dibuka.](../media/ask_copilot-pane-powerpoint.png)
 
 1. Di pita, pilih tombol Copilot.
 
@@ -14,7 +16,7 @@ Saat membuat presentasi, Anda mungkin tidak yakin tentang cara menata slide Anda
 
 1. Pilih **Kirim**.
 
-Jika Anda tidak menyukai apa yang dilakukan Copilot, Anda cukup memilih **tombol Batalkan** pada pita untuk memulihkan dek Anda ke kondisi sebelumnya. 
+Jika Anda tidak menyukai apa yang dilakukan Copilot, Anda cukup memilih **tombol Batalkan** pada pita untuk memulihkan dek Anda ke kondisi sebelumnya.
 
 ## Mari kita mulai membuat kerajinan tangan
 
@@ -32,17 +34,15 @@ Dalam perintah sederhana ini, Anda mulai dengan **Tujuan** dasar: _untuk menata 
 
 | Elemen | Contoh |
 | :------ | :------- |
-| Perintah dasar: <br>Mulai dengan **Tujuan** | **Atur presentasi PowerPoint ini.** |
-| Perintah yang baik: <br>Tambahkan **Konteks** | Menambahkan **Konteks** dapat membantu Copilot memahami cara Anda ingin mengatur dek dan alasan untuk melakukannya.<br><br>"_untuk ulasan produk eksekutif minggu depan_" |
-| Perintah yang lebih baik: <br>Tentukan **Sumber** | Menambahkan **Sumber** dapat membantu Copilot melihat di lokasi tertentu, seperti spesifikasi produk atau katalog.<br><br>"_Lihat** produk /Mystic Spice Premium Chai Tea product description.docx** untuk informasi produk._" |
-| Perintah terbaik: <br>Tetapkan dengan jelas **Harapan** | Terakhir, menambahkan **Ekspektasi** dapat membantu Copilot memahami cara menyusun presentasi dan tingkat detail apa yang akan disertakan.<br><br>"_Susun slide menurut produk dan sertakan gambaran umum, daftar fitur dan manfaat utama, umpan balik pelanggan, serta perbandingan dengan produk serupa di pasar._" |
+| **Perintah dasar:** Mulai dengan **Tujuan** | **Atur presentasi PowerPoint ini.** |
+| **Perintah yang baik:** Tambahkan **Konteks** | Menambahkan **Konteks** dapat membantu Copilot memahami cara Anda ingin mengatur dek dan alasan untuk melakukannya. _"untuk ulasan produk eksekutif minggu depan"_ |
+| **Perintah yang lebih baik:** Tentukan **Sumber** | Menambahkan **Sumber** dapat membantu Copilot melihat di lokasi tertentu, seperti spesifikasi produk atau katalog. _"Lihat **/Mystic Spice Premium Chai Tea product description.docx** untuk informasi produk."_ |
+| **Perintah terbaik:** Berikan **Ekspektasi** yang jelas | Terakhir, menambahkan **Ekspektasi** dapat membantu Copilot memahami cara menyusun presentasi dan tingkat detail apa yang akan disertakan. _"Susun slide menurut produk dan sertakan gambaran umum, daftar fitur dan manfaat utama, umpan balik pelanggan, serta perbandingan dengan produk serupa di pasar."_ |
 
 > [!NOTE]
 > **Perintah yang dibuat**:
 >
 > _Atur presentasi ini untuk ulasan produk eksekutif minggu depan. Lihat  **/Mystic Spice Premium Chai Tea product description.docx** untuk mengetahui informasi produk. Susun slide menurut produk, lalu sertakan gambaran umum, daftar fitur dan manfaat utama, umpan balik pelanggan, serta perbandingan dengan produk serupa di pasar._
-
-[![Cuplikan layar hasil perintah yang dibuat terhadap presentasi sampel menggunakan Copilot di PowerPoint.](../media/copilot-organize-results-powerpoint.png)](../media/copilot-organize-results-powerpoint.png#lightbox)
 
 Dalam perintah ini, **Tujuan**, **Konteks**, **Sumber**, dan **Harapan** semuanya disediakan, sehingga Copilot dapat memberikan arahan yang cukup untuk menghasilkan respons yang sesuai dengan kebutuhan Anda.
 

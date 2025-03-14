@@ -1,11 +1,12 @@
+# Microsoft 365 Copilot di Word untuk Meminta bantuan dan rekomendasi
 
-Untuk mulai menggunakan Copilot di Word, Anda bisa membuka panel **Copilot** dengan memilih ikon Copilot di tab pita **Beranda**. 
+Untuk mulai menggunakan Copilot di Word, Anda bisa membuka panel **Copilot** dengan memilih ikon Copilot di tab pita **Beranda**.
 
-![Cuplikan layar ikon Copilot di pita Word.](../media/copilot-ribbon-word.png)
+![Cuplikan layar ikon Copilot di pita Word.](../media/ask_copilot-ribbon-word.png)
 
 Selain membuat konten atau menghasilkan ide, Copilot di Word memiliki kemampuan untuk menjawab pertanyaan tentang dokumen yang Anda baca. Setelah Copilot merespons perintah Anda, Anda juga dapat melihat referensi dengan kutipan dari tempat Salinan informasi yang ditarik dalam dokumen Anda.
 
-![Cuplikan layar panel Copilot di Word saat pertama kali dibuka.](../media/copilot-pane-word.png)
+![Cuplikan layar panel Copilot di Word saat pertama kali dibuka.](../media/ask_copilot-pane-word.png)
 
 ## Ajukan pertanyaan tentang dokumen ini
 
@@ -15,7 +16,7 @@ Selain membuat konten atau menghasilkan ide, Copilot di Word memiliki kemampuan 
 
 ## Mengajukan pertanyaan terbuka
 
-Ingin menambahkan beberapa konten atau konteks ke dokumen Anda? Ajukan pertanyaan umum Copilot, dan itu akan mencoba memberi Anda jawaban. Contohnya: 
+Ingin menambahkan beberapa konten atau konteks ke dokumen Anda? Ajukan pertanyaan umum Copilot, dan itu akan mencoba memberi Anda jawaban. Contohnya:
 
 - Bagaimana cara mengedit dokumen ini agar terdengar lebih akademis?
 
@@ -38,17 +39,17 @@ Dalam perintah sederhana ini, Anda mulai dengan **Tujuan** dasar: _untuk menemuk
 
 | Elemen | Contoh |
 | :------ | :------- |
-| Perintah dasar: <br>Mulai dengan **Tujuan** | **_Apakah ada ajakan bertindak?_** |
-| Perintah yang baik: <br>Tentukan **Sumber** | Menambahkan **Sumber** dapat membantu Copilot tempat mencari informasi tertentu.<br><br>"_...dalam laporan analisis pasar ini..._" |
-| Perintah yang lebih baik: <br>Tambahkan **Konteks** | Menambahkan **Konteks** dapat membantu Copilot merespons dengan konteks dan memberi Anda respons yang lebih disesuaikan.<br><br>"_...untuk mengatasi tantangan dan kekhawatiran kami. Silakan periksa apakah paket pemasaran mencakup rencana tindakan yang jelas dan spesifik, seperti paket promosi atau diskon waktu terbatas._" |
-| Perintah terbaik: <br>Tetapkan dengan jelas **Harapan** | Terakhir, menambahkan **Ekspektasi** dapat membantu Copilot memahami apa yang sebenarnya Anda butuhkan, alih-alih hanya memberi Anda jawaban _ya_ atau _tidak_.<br><br>"_Harap berikan saran untuk meningkatkan ajakan bertindak jika perlu._" |
+| **Perintah dasar:** Mulai dengan **Tujuan** | **_Apakah ada ajakan bertindak?_** |
+| **Perintah yang baik:** Tentukan **Sumber** | Menambahkan **Sumber** dapat membantu Copilot tempat mencari informasi tertentu. _"...dalam laporan analisis pasar ini..."_ |
+| **Perintah yang lebih baik:** Tambahkan **Konteks** | Menambahkan **Konteks** dapat membantu Copilot merespons dengan konteks dan memberi Anda respons yang lebih disesuaikan. _"...untuk mengatasi tantangan dan kekhawatiran kami. Silakan periksa apakah paket pemasaran mencakup rencana tindakan yang jelas dan spesifik, seperti paket promosi atau diskon waktu terbatas."_ |
+| **Perintah terbaik:** Berikan **Ekspektasi** yang jelas | Terakhir, menambahkan **Ekspektasi** dapat membantu Copilot memahami apa yang sebenarnya Anda butuhkan, alih-alih hanya memberi Anda jawaban _ya_ atau _tidak_. _"Harap berikan saran untuk meningkatkan ajakan bertindak jika perlu."_ |
 
 > [!NOTE]
 > **Perintah yang dibuat**:
 >
 > _Apakah ada ajakan untuk bertindak dalam laporan analisis pasar ini untuk mengatasi tantangan dan kekhawatiran kita? Silakan periksa apakah paket pemasaran mencakup rencana tindakan yang jelas dan spesifik, seperti paket promosi atau diskon waktu terbatas. Harap berikan saran untuk meningkatkan ajakan bertindak jika perlu._
 
-[![Tangkap layar perintah yang dibuat lalu disandingkan dengan dokumen sampel menggunakan Copilot di Word.](../media/copilot-prompt-results-word.png)](../media/copilot-prompt-results-word.png#lightbox)
+![Tangkap layar perintah yang dibuat lalu disandingkan dengan dokumen sampel menggunakan Copilot di Word.](../media/ask_copilot-prompt-results-word.png)
 
 Perintah ini memberikan Copilot semua yang dibutuhkan untuk menghasilkan jawaban yang baik, termasuk **Tujuan**, **Konteks**, **Sumber**, dan **Harapan**.
 

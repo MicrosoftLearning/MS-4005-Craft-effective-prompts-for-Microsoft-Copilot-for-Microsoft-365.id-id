@@ -1,3 +1,5 @@
+# Latihan - Ikuti menggunakan data sampel dengan Microsoft 365 Copilot
+
 Di seluruh modul ini, kami akan membuat perintah untuk Microsoft 365 Copilot yang mereferensikan file-file ini:
 
 - [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
@@ -7,7 +9,7 @@ Di seluruh modul ini, kami akan membuat perintah untuk Microsoft 365 Copilot yan
 
 **Catatan**: Ini adalah file yang akan kita referensikan di seluruh modul. Namun, untuk lab ini, kita akan mulai dengan mengunggah semua file ke **OneDrive** untuk memastikan file tersebut dapat diakses untuk perintah Copilot nantinya.
 
-### Mengunggah file ke OneDrive
+## Mengunggah file ke OneDrive
 
 Ikuti langkah-langkah di bawah ini untuk mengunggah semua file yang diperlukan ke **OneDrive**:
 
@@ -18,7 +20,7 @@ Ikuti langkah-langkah di bawah ini untuk mengunggah semua file yang diperlukan k
 5. Pada **permintaan Masuk**, masukkan `userx@yourtenant.onmicrosoft.com` (nama pengguna dan penyewa yang disediakan oleh penyewa Anda) dan pilih **Berikutnya**.
 
     [![Tangkap layar panel sumber daya dalam Skillable](../media/lab_resources_password.png)](../media/lab_resources_password.png#lightbox)
-    
+
 6. Di layar **Masukkan kata sandi**, masukkan kata sandi (disediakan oleh penyedia penyewa) untuk akun Pengguna, lalu pilih **Masuk**.
 7. Jika diminta untuk **Tetap masuk**, pilih **Jangan tampilkan ini lagi** lalu **Ya**.
 8. Di **Microsoft 365**, pilih **Aplikasi**.
@@ -29,11 +31,11 @@ Ikuti langkah-langkah di bawah ini untuk mengunggah semua file yang diperlukan k
 13. Setelah pengunggahan selesai, Anda akan melihat **29 item yang diunggah ke My files** di tengah bawah layar.
 14. Biarkan **Edge** terbuka dan lanjutkan ke tugas berikutnya.
 
-### Mereferensikan File dalam Copilot
+### Mereferensi file
 
-Saat menggunakan Copilot, Anda mungkin menemukan bahwa beberapa file tidak segera tersedia dalam saran. Ini terjadi karena pengalaman Copilot tertentu hanya mereferensikan file dari daftar **Paling Baru Digunakan (MRU),** sementara yang lain memungkinkan Anda menelusuri **OneDrive** secara langsung. Untuk memastikan file muncul dalam daftar **MRU**, cukup buka di aplikasi Microsoft 365 yang relevan, dan file tersebut akan ditambahkan secara otomatis.
+Saat mereferensikan file dari Copilot, terkadang Anda tidak dapat menemukan beberapa file dari saran yang diberikan kepada Anda. Ini terjadi karena pengalaman tertentu dengan Copilot hanya mereferensikan file dari daftar Paling Baru Digunakan (MRU), sementara yang lain memungkinkan Anda menelusuri OneDrive untuk menemukan file Anda. Menambahkannya ke daftar tersebut semudah membukanya di aplikasi Microsoft 365 yang sesuai.  Setelah dibuka, file akan muncul dalam daftar MRU.
 
 > [!IMPORTANT]
-> Microsoft 365 Copilot hanya akan berfungsi dengan file yang disimpan ke **OneDrive**. File yang disimpan secara lokal di PC Anda harus dipindahkan ke **OneDrive** untuk Copilot untuk mengaksesnya.
+> Microsoft 365 Copilot hanya akan berfungsi dengan file yang disimpan ke OneDrive. Jika file disimpan secara lokal di PC Anda, Anda harus memindahkannya ke OneDrive untuk mengaktifkan Copilot.
 
-Saat Anda menelusuri modul, Anda akan memiliki peluang untuk mencoba berbagai perintah pada file-file ini. Jangan ragu untuk bereksperimen dengan pendekatan yang berbeda untuk meningkatkan keterampilan Anda dengan Copilot.
+Saat menelusuri modul, Anda berkesempatan mencoba perintah lain untuk file-file ini dan disarankan untuk mencobanya agar dapat memahami dan meningkatkan keterampilan membuat perintah.

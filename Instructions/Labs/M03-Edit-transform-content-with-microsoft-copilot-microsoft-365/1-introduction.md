@@ -1,6 +1,8 @@
+# Pengantar
+
 Dalam modul ini, Anda akan mempelajari cara menyusun perintah yang efektif dan kontekstual kepada Microsoft 365 Copilot untuk **mengubah** dokumen, data, dan teks pada aplikasi Microsoft 365. Jika Anda ingin meningkatkan keterampilan yang diminta untuk Copilot, modul ini membekali Anda dengan pengetahuan dan teknik untuk membuat permintaan yang menghasilkan hasil yang akurat dan bermanfaat dari Microsoft 365 Copilot.
 
-Fokus modul ini adalah **mengedit**, **mengubah**, dan **menulis ulang** informasi menggunakan Copilot di aplikasi Microsoft 365 seperti **Word**, **PowerPoint**, **Excel**, **Outlook**, dan lainnya. Anda mempelajari cara menggunakan kemampuan transformasi dasar ini menggunakan AI, tetapi juga cara membuat permintaan efisien yang berisi semua elemen untuk menghasilkan hasil yang diinginkan.
+Fokus modul ini adalah **mengedit**, **mengubah**, dan **menulis ulang** informasi menggunakan Copilot di Aplikasi Microsoft 365 seperti **Word**, **PowerPoint**, **Excel**, **Outlook**, dan lainnya. Anda mempelajari cara menggunakan kemampuan transformasi dasar ini menggunakan AI, tetapi juga cara membuat permintaan efisien yang berisi semua elemen untuk menghasilkan hasil yang diinginkan.
 
 > [!IMPORTANT]
 > Banyak fitur Copilot yang tercakup dalam modul ini hanya tersedia untuk pelanggan dengan lisensi Microsoft 365 Copilot atau lisensi Copilot Pro. Namun, strategi yang digunakan untuk membuat prompt yang lebih baik dapat digunakan dengan model bahasa besar (LLM) berbasis obrolan apa pun.

@@ -1,6 +1,8 @@
+# Pengantar
+
 Dalam modul ini, Anda akan mempelajari cara membuat perintah kontekstual yang efektif untuk Microsoft 365 Copilot untuk **membuat** informasi di aplikasi Microsoft 365. Jika Anda ingin meningkatkan keterampilan yang diminta untuk Copilot, modul ini membekali Anda dengan pengetahuan dan teknik untuk membuat permintaan yang menghasilkan hasil yang akurat dan bermanfaat dari Microsoft 365 Copilot.
 
-Fokus dari modul ini adalah **mendesain**, **menciptakan**, dan **membangun** informasi menggunakan aplikasi Microsoft 365 Copilot seperti **Word**, **PowerPoint**, **Teams**, **Outlook**, dan lainnya. Anda mempelajari cara menggunakan kemampuan pembuatan dasar ini, tetapi juga cara membuat permintaan efisien yang berisi semua elemen untuk menghasilkan hasil yang diinginkan.
+Fokus dari modul ini adalah **mendesain**, **menciptakan**, dan **membangun** informasi menggunakan Microsoft 365 Copilot dalam Aplikasi Microsoft 365 yang berbeda seperti **Word**, **PowerPoint**, **Teams**, **Outlook**, dan lainnya. Anda mempelajari cara menggunakan kemampuan pembuatan dasar ini, tetapi juga cara membuat permintaan efisien yang berisi semua elemen untuk menghasilkan hasil yang diinginkan.
 
 > [!IMPORTANT]
 > Banyak fitur Copilot yang tercakup dalam modul ini hanya tersedia untuk pelanggan dengan lisensi Microsoft 365 Copilot atau lisensi Copilot Pro. Namun, strategi yang digunakan untuk membuat prompt yang lebih baik dapat digunakan dengan model bahasa besar (LLM) berbasis obrolan apa pun.
