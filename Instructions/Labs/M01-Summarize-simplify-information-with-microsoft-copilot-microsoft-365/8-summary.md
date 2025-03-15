@@ -1,10 +1,12 @@
+# Ringkasan          
+
 Dalam modul ini, Anda mempelajari tentang Microsoft 365 Copilot di berbagai aplikasi Microsoft 365 seperti Word, PowerPoint, Excel, Teams, Outlook, dan obrolan. Copilot adalah alat bertenaga AI yang membantu tugas seperti menghasilkan ringkasan, mencari informasi tertentu, menghasilkan ide, tabel, atau daftar, dan analisis data. Untuk menyusun perintah yang efektif dari Copilot yang membuahkan hasil yang diinginkan, penting untuk memberikan **Tujuan**, **Konteks**, **Sumber**, dan **Harapan** yang jelas dalam perintah Anda.
 
 Pengamanan utama dari modul ini adalah bahwa Microsoft 365 Copilot adalah alat yang berharga untuk meningkatkan produktivitas dan efisiensi dalam berbagai aplikasi Microsoft. Ketika Anda membuat perintah yang efisien sejak awal, Copilot dapat memberikan respons yang akurat dan relevan terhadap kueri Anda dan membantu mencapai tujuan Anda.
 
 ## Sumber daya kunci
 
-- [Selamat Datang di Copilot dalam Word](https://support.microsoft.com/en-us/office/welcome-to-copilot-in-word-2135e85f-a467-463b-b2f0-c51a46d625d1)
+- [Selamat Datang di Copilot dalam Word](https://support.microsoft.com/office/welcome-to-copilot-in-word-2135e85f-a467-463b-b2f0-c51a46d625d1)
 
 - [Selamat Datang di Copilot dalam PowerPoint](https://support.microsoft.com/office/welcome-to-copilot-in-powerpoint-57133c75-24c0-4519-8096-d0dadf25fb8d)
 

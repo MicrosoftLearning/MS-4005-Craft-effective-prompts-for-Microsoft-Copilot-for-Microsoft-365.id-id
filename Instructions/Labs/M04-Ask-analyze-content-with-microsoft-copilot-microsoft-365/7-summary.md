@@ -1,3 +1,4 @@
+# Ringkasan          
 
 Dalam modul ini, Anda mempelajari cara membuat perintah yang efektif kepada Microsoft 365 Copilot untuk meminta informasi di dalam dokumen dan file Microsoft. Anda juga telah mempelajari tentang Microsoft 365 Copilot dan berbagai fungsinya di berbagai aplikasi Microsoft. Ini menghasilkan wawasan dan saran berdasarkan file, dokumen, obrolan, dan rapat Anda. Modul ini telah membekali Anda dengan pengetahuan dan teknik untuk membuat perintah yang menghasilkan hasil yang akurat dan bermanfaat dari Microsoft 365 Copilot.
 

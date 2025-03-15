@@ -1,13 +1,16 @@
+# Menambahkan gambar, slide, dan menata presentasi Anda menggunakan Microsoft 365 Copilot di PowerPoint
 
-Misalkan Anda ingin menambahkan slide ke dek pada riwayat sepak bola. Mintalah Copilot di PowerPoint untuk "**_Tambahkan slide tentang riwayat Sepak Bola Wanita_**" dan membuat slide tersebut untuk Anda.
+Misalkan Anda ingin menambahkan slide ke dek pada riwayat sepak bola.  Mintalah Copilot di PowerPoint untuk "**_Tambahkan slide tentang riwayat Sepak Bola Wanita_**" dan membuat slide tersebut untuk Anda.
 
-![Cuplikan layar Copilot dalam kotak buat PowerPoint dengan perintah dimasukkan.](../media/copilot-add-slides-powerpoint.png)
+![Cuplikan layar Copilot dalam kotak buat PowerPoint dengan perintah dimasukkan.](../media/edit_copilot-add-slides-powerpoint.png)
 
-Copilot juga dapat melangkah masuk untuk membuat apa yang Anda miliki lebih baik. Mungkin Anda mengajar kelas memasak dan membutuhkan beberapa slide tentang membuat pizza, tetapi bisa menggunakan beberapa gambar. Minta Copilot untuk "**_Tambahkan gambar koki yang membuat adonan pizza_**" dan Copilot akan menemukan gambar yang sempurna untuk membuat slide Anda lebih menarik.
+Copilot juga dapat melangkah masuk untuk membuat apa yang Anda miliki lebih baik. Mungkin Anda mengajar kelas memasak dan membutuhkan beberapa slide tentang membuat pizza, tetapi bisa menggunakan beberapa gambar.  Minta Copilot untuk "**_Tambahkan gambar koki yang membuat adonan pizza_**" dan Copilot akan menemukan gambar yang sempurna untuk membuat slide Anda lebih menarik.
 
 Cobalah dengan perintah berikut dan lihat apa yang dapat dimunculkan oleh Copilot untuk Anda.
 
 ## Mari kita mulai membuat kerajinan tangan
+
+Pertama, unduh dan buka **_[Mystic Spice Premium Chai Market Analysis Presentation.pptx](https://go.microsoft.com/fwlink/?linkid=2268768)_**. Simpan file ke **folder OneDrive** Anda, jika belum.
 
 > [!NOTE]
 > Perintah awal:
@@ -18,17 +21,17 @@ Pada perintah sederhana ini, Anda mulai dengan **Tujuan** dasar: _untuk menambah
 
 | Elemen | Contoh |
 | :------ | :------- |
-| Perintah dasar: <br>Mulai dengan **Tujuan** | **_Menambahkan slide baru ke presentasi PowerPoint_**. |
-| Perintah yang baik: <br>Tambahkan **Konteks** | **Menambahkan Konteks** dapat membantu Copilot memahami tujuan slide dan topik apa yang akan difokuskan.<br><br>“..._tentang produk FY24 kami yang baru. Mohon sertakan ikhtisar dari setiap produk, fitur dan manfaat utama, angka penjualan, dan perbandingan dengan produk serupa di pasar_.” |
-| Perintah yang lebih baik: <br>Tentukan **Sumber** | Menambahkan **Sumber** dapat membantu Copilot tempat mencari informasi tertentu.<br><br>"_Menggunakan spesifikasi dan diagram produk dari [Contoso-Product-Catalog-FY24.docx]_." |
-| Perintah terbaik: <br>Tetapkan dengan jelas **Harapan** | Terakhir, menambahkan **Harapan** dapat membantu Copilot memahami bagaimana Anda ingin tabel diatur dan ditulis.<br><br>"_Silakan gunakan format yang menarik secara visual dengan gambar setiap produk dan buat deskripsi yang singkat_." |
+| **Perintah dasar:** Mulai dengan **Tujuan** | **_Menambahkan slide baru ke presentasi PowerPoint._** |
+| **Perintah yang baik:** Tambahkan **Konteks** | **Menambahkan Konteks** dapat membantu Copilot memahami tujuan slide dan topik apa yang akan difokuskan. _"... meringkas tren pasar terbaru untuk chai premium, termasuk preferensi konsumen utama dan pesaing yang muncul."_ |
+| **Perintah yang lebih baik:** Tentukan **Sumber** | Menambahkan **Sumber** dapat membantu Copilot mengetahui di mana mencari informasi tertentu. _"Gunakan wawasan dari slide yang ada pada tren dan permintaan pasar."_ |
+| **Perintah terbaik:** Berikan **Ekspektasi** yang jelas | Terakhir, menambahkan **Harapan** dapat membantu Copilot memahami bagaimana Anda ingin slide diatur dan ditulis. _"Format slide dengan visual yang menarik dan poin-poin ringkas untuk kesimpulan penting yang bisa diambil."_ |
 
 > [!NOTE]
 > **Perintah yang dibuat**:
 >
-> _Tambahkan slide baru pada presentasi PowerPoint tentang produk baru kami dalam FY24. Sertakan gambaran umum dari setiap produk, fitur dan manfaat utama, angka penjualan, dan perbandingan dengan produk serupa di pasar. Gunakan spesifikasi dan diagram produk dari [Contoso-Product-Catalog-FY24.docx]. Gunakan format yang menarik secara visual dengan berbagai gambar pada setiap produk dan jaga keringkasan deskripsinya._
+> _Tambahkan slide baru ke presentasi PowerPoint yang meringkas tren pasar terbaru untuk chai premium, termasuk preferensi konsumen utama dan pesaing yang muncul. Gunakan wawasan dari slide yang ada pada tren dan permintaan pasar. Format slide dengan visual yang menarik dan poin-poin ringkas untuk kesimpulan penting yang bisa diambil._
 
-Dengan **Tujuan**, **Konteks**, **Sumber**, dan **Harapan** yang telah disiapkan, Copilot memiliki semua yang dibutuhkan untuk memberikan respons yang baik. 
+Dengan **Tujuan**, **Konteks**, **Sumber**, dan **Harapan** yang telah disiapkan, Copilot memiliki semua yang dibutuhkan untuk memberikan respons yang baik.
 
 ## Lihat selengkapnya
 

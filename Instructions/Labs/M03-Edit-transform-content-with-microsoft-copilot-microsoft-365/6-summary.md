@@ -1,11 +1,12 @@
+# Ringkasan          
 
 Dalam modul ini, Anda telah mempelajari tentang Microsoft 365 Copilot dan fitur transformatifnya di seluruh aplikasi Microsoft 365, seperti:
 
-- Copilot di Word dapat menulis ulang teks Anda dan mengubahnya menjadi tabel yang dapat diedit. 
+- Copilot di Word dapat menulis ulang teks Anda dan mengubahnya menjadi tabel yang dapat diedit.
 
-- Copilot di PowerPoint dapat membantu menambahkan slide ke presentasi Anda dan meningkatkannya dengan gambar. 
+- Copilot di PowerPoint dapat membantu menambahkan slide ke presentasi Anda dan meningkatkannya dengan gambar.
 
-- Copilot di Excel memungkinkan pengguna menyorot, mengurutkan, dan memfilter tabel untuk fokus pada informasi penting. 
+- Copilot di Excel memungkinkan pengguna menyorot, mengurutkan, dan memfilter tabel untuk fokus pada informasi penting.
 
 - Copilot di Outlook memberikan saran untuk meningkatkan nada, kejelasan, dan sentimen pembaca email Anda dengan Coaching by Copilot.
 

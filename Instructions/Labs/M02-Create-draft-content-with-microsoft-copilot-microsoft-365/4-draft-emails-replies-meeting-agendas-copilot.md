@@ -1,3 +1,5 @@
+# Draf email, balasan, dan agenda rapat dengan Microsoft 365 Copilot di Outlook
+
 Copilot di Outlook membuat manajemen kotak masuk lebih mudah dengan bantuan yang didukung AI untuk membantu Anda menulis email dengan cepat dan mengubah utas email panjang menjadi ringkasan singkat. Ini menggabungkan kekuatan model bahasa besar (LLM) dengan data Outlook untuk membantu Anda tetap produktif di tempat kerja. Ini dapat meringkas utas email (juga dikenal sebagai percakapan), yang menarik poin penting dari beberapa pesan.
 
 > [!NOTE]
@@ -11,13 +13,13 @@ Salinan di Outlook dapat membantu Anda membuat draf email dengan cepat atau memb
 
 1. Pilih **Draf dengan Copilot** dari menu drop-down.
 
-    ![Cuplikan layar ikon Copilot di toolbar Outlook.](../media/copilot-toolbar-outlook.png)
+    ![Cuplikan layar ikon Copilot di toolbar Outlook.](../media/create_copilot-toolbar-outlook.png)
 
 1. Dalam kotak Copilot, **ketik perintah Anda**.
 
 1. Pilih **Buat opsi** untuk memilih panjang dan nada yang Anda inginkan.
 
-    ![Cuplikan layar opsi yang tersedia untuk menyesuaikan draf Anda di Copilot di Outlook.](../media/copilot-generate-options-outlook.png)
+    ![Cuplikan layar opsi yang tersedia untuk menyesuaikan draf Anda di Copilot di Outlook.](../media/create_copilot-generate-options-outlook.png)
 
 1. Setelah selesai, pilih **Buat**. Copilot membuat pesan untuk Anda.
 
@@ -29,7 +31,7 @@ Salinan di Outlook dapat membantu Anda membuat draf email dengan cepat atau memb
 
 1. Edit draf sesuai kebutuhan, lalu pilih **Kirim**.
 
-    ![Cuplikan layar draf email yang dihasilkan dengan Copilot di Outlook.](../media/copilot-draft-results-outlook.png)
+    ![Cuplikan layar draf email yang dihasilkan dengan Copilot di Outlook.](../media/create_copilot-draft-results-outlook.png)
 
 ## Mari kita mulai membuat kerajinan tangan
 
@@ -42,17 +44,17 @@ Dalam perintah sederhana ini, Anda mulai dengan **Tujuan**: dasar: _untuk membua
 
 | Elemen | Contoh |
 | :------ | :------- |
-| Perintah dasar: <br>Mulai dengan **Tujuan** | **_Membuat draf email baru._** |
-| Perintah yang baik: <br>Tambahkan **Konteks** | Menambahkan **Konteks** dapat membantu Copilot memahami isi email dan siapa pembacanya.<br><br>“_... kepada klien saya, Allan Deyoung, mengenai status tiket dukungan mereka._” |
-| Perintah yang lebih baik: <br>Tentukan **Sumber** | Menambahkan **Sumber** dapat membantu Copilot tempat mencari informasi tertentu.<br><br>“_... Lihatlah email saya untuk informasi terbaru tentang tiket #1928374655._” |
-| Perintah terbaik: <br>Tetapkan dengan jelas **Harapan** | Terakhir, menambahkan **Harapan** dapat membantu Copilot memahami bagaimana Anda ingin dokumen ditulis dan diformat.<br><br>“_Email harus terdengar profesional dan teknis, namun ditulis dengan empati_” |
+| **Perintah dasar:** Mulai dengan **Tujuan** | **_Membuat draf email baru._** |
+| **Perintah yang baik:** Tambahkan **Konteks** | Menambahkan **Konteks** dapat membantu Copilot memahami isi email dan siapa pembacanya. _“... kepada klien saya, Allan Deyoung, mengenai status tiket dukungannya.”_ |
+| **Perintah yang lebih baik:** Tentukan **Sumber** | Menambahkan **Sumber** dapat membantu Copilot mengetahui di mana mencari informasi tertentu. _"Lihat pembaruan terbaru dari catatan saya: Masalah ini telah dieskalasikan ke dukungan Tingkat 2, dan resolusi diharapkan dalam waktu 48 jam."_ |
+| **Perintah terbaik:** Berikan **Ekspektasi** yang jelas | Terakhir, menambahkan **Harapan** dapat membantu Copilot memahami bagaimana Anda ingin dokumen ditulis dan diformat. _“Email harus terdengar profesional dan teknis, namun ditulis dengan empati”_ |
 
 > [!NOTE]
 > **Perintah yang dibuat**:
 >
-> _Buat draf email baru kepada klien saya, Allan Deyoung, mengenai status tiket dukungan mereka. Lihat email saya untuk informasi terbaru tentang tiket #1928374655. Email harus terdengar profesional dan teknis, tetapi ditulis dengan empati._
+> _Buat draf email baru kepada klien saya, Allan Deyoung, mengenai status tiket dukungannya. Lihat pembaruan terbaru dari catatan saya: Masalah ini telah dieskalasikan ke dukungan Tingkat 2, dan resolusi diharapkan dalam waktu 48 jam. Email harus terdengar profesional dan teknis, tetapi ditulis dengan empati._
 
-Dalam prompt ini, Copilot memiliki semua informasi yang dibutuhkan untuk memberikan jawaban yang solid, berkat **Tujuan**, **Konteks**, **Sumber**, dan **Harapan** dalam perintah ini. 
+Dalam prompt ini, Copilot memiliki semua informasi yang dibutuhkan untuk memberikan jawaban yang solid, berkat **Tujuan**, **Konteks**, **Sumber**, dan **Harapan** dalam perintah ini.
 
 > [!IMPORTANT]
 > Copilot di Outlook hanya mendukung akun kerja atau sekolah, dan akun Microsoft menggunakan alamat email outlook.com, hotmail.com, live.com, dan msn.com saat ini. Setiap akun Microsoft yang menggunakan akun dari penyedia email pihak ketiga masih dapat menggunakan Outlook, tetapi tidak akan memiliki akses ke fitur Copilot di Outlook. Untuk informasi lebih lanjut, lihat [Membuat draf pesan email dengan Copilot di Outlook](https://support.microsoft.com/office/draft-an-email-message-with-copilot-in-outlook-3eb1d053-89b8-491c-8a6e-746015238d9b).

@@ -1,7 +1,8 @@
+# Draf surat sampul, paket pemasaran, dan kerangka dengan Microsoft 365 Copilot di Word
 
 Untuk mulai menggunakan Microsoft 365 Copilot di Word, Anda bisa membuka panel **Copilot** dengan memilih ikon Copilot di tab **Beranda** pita atau mulai menulis langsung di dalam dokumen.
 
-![Cuplikan layar ikon Copilot di pita Word.](../media/copilot-ribbon-word.png)
+![Cuplikan layar ikon Copilot di pita Word.](../media/create_copilot-ribbon-word.png)
 
 Untuk mulai menyusun tepat di isi dokumen:
 
@@ -13,7 +14,7 @@ Untuk mulai menyusun tepat di isi dokumen:
 
 Setelah Copilot menghasilkan konten, pilih **Simpan** untuk menyimpan konten tersebut, **Hasilkan ulang** untuk menghasilkan ulang jawabannya, **Buang** untuk membuang konten tersebut, atau sempurnakan draf dengan memasukkan detail ke dalam kotak penulisan, seperti “_Buat lebih ringkas_.”
 
-![Cuplikan layar bilah opsi setelah menggunakan Draf dengan Copilot di Word.](../media/copilot-prompt-box-word.png)
+![Cuplikan layar bilah opsi setelah menggunakan Draf dengan Copilot di Word.](../media/create_copilot-prompt-box-word.png)
 
 Dalam contoh berikut, kami mengubah permintaan dasar untuk Copilot di Word menjadi perintah kontekstual yang dibangun dengan baik yang memberi Anda apa yang Anda butuhkan, hanya dengan cara yang Anda butuhkan.
 
@@ -32,21 +33,19 @@ Dalam perintah sederhana ini, Anda mulai dengan **Tujuan**: dasar: _untuk membua
 
 | Elemen | Contoh |
 | :------ | :------- |
-| Perintah dasar: <br>Mulai dengan **Tujuan** | **_Menyusun proposal pemasaran._** |
-| Perintah yang baik: <br>Tambahkan **Konteks** | Menambahkan **Konteks** dapat membantu Copilot memahami jenis dokumen apa yang ingin Anda buat dan untuk apa dokumen tersebut akan digunakan.<br><br>"_... untuk produk terbaru Contoso: CipherGuard. Kita perlu menghasilkan tiga ide untuk kampanye pemasaran..._" |
-| Perintah yang lebih baik: <br>Tentukan **Sumber** | Menambahkan **Sumber** dapat membantu Copilot tempat mencari informasi tertentu.<br><br>"_... menggunakan spesifikasi dan persyaratan produk._" |
-| Perintah terbaik: <br>Tetapkan dengan jelas **Harapan** | Terakhir, menambahkan **Harapan** dapat membantu Copilot memahami bagaimana Anda ingin dokumen ditulis dan diformat.<br><br>"_Harap sertakan gambaran singkat tentang produk, pro dan kontra untuk setiap ide, dan proyeksi ROI. Simpan dokumen ke dua halaman dan gunakan bahasa optimis dan meyakinkan._" |
+| **Perintah dasar:** Mulai dengan **Tujuan** | **_Menyusun proposal pemasaran._** |
+| **Perintah yang baik:** Tambahkan **Konteks** | Menambahkan **Konteks** dapat membantu Copilot memahami jenis dokumen apa yang ingin Anda buat dan untuk apa dokumen tersebut akan digunakan. _"... untuk produk terbaru Contoso: CipherGuard. Kita perlu menghasilkan tiga ide untuk kampanye pemasaran..."_ |
+| **Perintah yang lebih baik:** Tentukan **Sumber** | Menambahkan **Sumber** dapat membantu Copilot mengetahui di mana mencari informasi tertentu. _"... menggunakan spesifikasi dan persyaratan produk."_ |
+| **Perintah terbaik:** Berikan **Ekspektasi** yang jelas | Terakhir, menambahkan **Harapan** dapat membantu Copilot memahami bagaimana Anda ingin dokumen ditulis dan diformat. _"Harap sertakan gambaran singkat tentang produk, pro dan kontra untuk setiap ide, dan proyeksi ROI. Simpan dokumen ke dua halaman dan gunakan bahasa optimis dan meyakinkan."_ |
 
 > [!NOTE]
 > **Perintah yang dibuat**:
 >
 > _Menyusun proposal pemasaran untuk produk terbaru Contoso: CipherGuard. Kita perlu menghasilkan tiga ide untuk kampanye pemasaran menggunakan spesifikasi dan persyaratan produk. Sertakan gambaran singkat tentang produk, pro dan kontra untuk setiap ide, dan proyeksi ROI. Simpan dokumen ke dua halaman dan gunakan bahasa optimis dan meyakinkan._
 
-[![Cuplikan layar hasil permintaan yang dibuat terhadap dokumen sampel menggunakan Copilot di Word.](../media/copilot-draft-results-word.png)](../media/copilot-draft-results-word.png#lightbox)
-
 Tinjau hasil perintah Anda, lalu lakukan tindak lanjut dengan pertanyaan atau penyempurnaan, kemudian tambahkan hasil ke akhir dokumen dalam bagian yang baru. **Simpan** file sehingga dapat digunakan nanti.
 
-Perintah ini memberikan Copilot semua yang dibutuhkan untuk menghasilkan jawaban yang baik, termasuk **Tujuan**, **Konteks**, **Sumber**, dan **Harapan**. 
+Perintah ini memberikan Copilot semua yang dibutuhkan untuk menghasilkan jawaban yang baik, termasuk **Tujuan**, **Konteks**, **Sumber**, dan **Harapan**.
 
 ### Mereferensikan sumber
 

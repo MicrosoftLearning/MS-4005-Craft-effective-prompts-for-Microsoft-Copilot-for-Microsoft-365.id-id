@@ -1,5 +1,6 @@
+# Menganalisis dan bekerja dengan tabel menggunakan Microsoft 365 Copilot di Excel
 
-Jika Anda tidak yakin cara menulis rumus untuk kolom baru, Microsoft 365 Copilot dapat dengan cepat menambahkan kolom baru dengan rumus berdasarkan data Anda. 
+Jika Anda tidak yakin cara menulis rumus untuk kolom baru, Microsoft 365 Copilot dapat dengan cepat menambahkan kolom baru dengan rumus berdasarkan data Anda.
 
 1. Dengan data Anda diformat sebagai tabel, pilih tombol **Copilot** di pita.
 
@@ -21,34 +22,34 @@ Buka spreadsheet di Excel, lalu buka panel **Copilot** dengan memilih ikon Copil
 > [!NOTE]
 > Perintah awal:
 >
-> _Jelaskan rumus ini._
+> _Sarankan kolom rumus._
 
-Dalam perintah sederhana ini, Anda mulai dengan **Tujuan** dasar: _untuk menjelaskan rumus Excel_. Namun, Copilot tidak tahu rumus mana atau apa yang tidak Anda pahami.
+Dalam perintah sederhana ini, Anda mulai dengan **Tujuan**: dasar: _untuk membuat kolom dengan rumus yang baru._ Namun, informasi yang detail tidak disediakan untuk menentukan apa yang harus dihitung rumus.  
 
 | Elemen | Contoh |
 | :------ | :------- |
-| Perintah dasar: <br>Mulai dengan **Tujuan** | **_Jelaskan rumus ini._** |
-| Perintah yang baik: <br>Tambahkan **Konteks** | Menambahkan **Konteks** dapat membantu Copilot memahami apa yang tidak Anda pahami tentang rumus.<br><br>"_Kita perlu memahami cara menghitung keterlibatan pengguna._" |
-| Perintah yang lebih baik: <br>Tentukan **Sumber** | **Sumber** untuk perintah ini diasumsikan sebagai tabel yang sedang kami kerjakan di Excel, tetapi Anda bisa mendapatkan lebih spesifik.<br><br>“_... dari kolom J pada tabel 'Tabel1' di spreadsheet Excel._” |
-| Perintah terbaik: <br>Tetapkan dengan jelas **Harapan** | Terakhir, menambahkan **Harapan** dapat membantu Copilot memahami bagaimana Anda ingin rumus dijelaskan dan dipecah.<br><br>"_Harap berikan perincian langkah demi langkah rumus, termasuk argumen dan sintaksnya. Harap sarankan rumus tambahan yang akan berguna untuk menentukan pengembalian investasi._" |
+| **Perintah dasar:** Mulai dengan **Tujuan** | **_Sarankan kolom rumus._** |
+| **Perintah yang baik:** Tambahkan **Konteks** | Menambahkan **Konteks** membantu Copilot memahami apa yang harus dihitung rumus. _"... untuk kolom J untuk menentukan rasio keterlibatan setiap kampanye."_ |
+| **Perintah yang lebih baik:** Tentukan **Sumber** | **Sumber** untuk perintah ini adalah kolom tertentu yang diperlukan untuk perhitungan. _"... menggunakan nilai dari 'Pengguna yang Terlibat' dan 'Total Pengguna Yang Ditargetkan'."_ |
+| **Perintah terbaik:** Berikan **Ekspektasi** yang jelas | Menambahkan **Ekspektasi** membantu Copilot menyusun rumus dengan benar. _"Pastikan rumus membagi 'Pengguna yang Terlibat' dengan 'Total Pengguna Yang Ditargetkan' dan memformat hasilnya sebagai persentase."_ |
 
-> [!NOTE]
-> **Perintah yang dibuat**:
+> [!NOTE]  
+> **Perintah yang dibuat**:  
 >
-> _Jelaskan rumus dari kolom J dari tabel 'Table1' di lembar bentang Excel. Kita perlu memahami cara menghitung keterlibatan pengguna. Harap berikan perincian langkah demi langkah rumus, termasuk argumen dan sintaksnya. Harap sarankan rumus tambahan yang akan berguna untuk menentukan pengembalian investasi._
+> _Sarankan rumus untuk kolom J untuk menghitung rasio keterlibatan setiap kampanye. Gunakan nilai dari 'Pengguna yang Terlibat' dan 'Total Pengguna Yang Ditargetkan'. Pastikan rumus membagi 'Pengguna yang Terlibat' dengan 'Total Pengguna Yang Ditargetkan' dan memformat hasilnya sebagai persentase._  
 
-[![Cuplikan layar hasil perintah yang dibuat menggunakan Copilot di Excel.](../media/copilot-explain-formula-results-excel.png)](../media/copilot-explain-formula-results-excel.png#lightbox)
+![Cuplikan layar hasil perintah yang dibuat menggunakan Copilot di Excel.](../media/ask_copilot-explain-formula-results-excel.png)
 
 Perintah ini memiliki semua detail yang dibutuhkan - **Tujuan**, **Konteks**, **Sumber**, dan **Harapan** - sehingga Copilot dapat memberi Anda jawaban yang Anda cari.
 
 ## Lihat selengkapnya
 
-Gunakan perintah ini sebagai titik awal. Salin dan ubah agar sesuai dengan kebutuhan Anda. 
+Gunakan perintah ini sebagai titik awal. Salin dan ubah agar sesuai dengan kebutuhan Anda.
 
-- Hitung total biaya per produk di kolom baru. 
+- Hitung total biaya per produk di kolom baru.
 
-- Tambahkan kolom yang menghitung total laba untuk setiap kampanye pemasaran pada tahun 2022. 
+- Tambahkan kolom yang menghitung total laba untuk setiap kampanye pemasaran pada tahun 2022.
 
-- Tambahkan kolom yang menghitung jumlah hari setelah peristiwa peluncuran produk. 
+- Tambahkan kolom yang menghitung jumlah hari setelah peristiwa peluncuran produk.
 
 Untuk informasi selengkapnya, lihat [Membuat kolom rumus dengan Copilot di Excel](https://support.microsoft.com/office/generate-formula-columns-with-copilot-in-excel-d866d926-9791-4e5f-be2a-c6dd9e587a47).

@@ -1,4 +1,6 @@
-Dalam modul ini, Anda telah mempelajari cara menggunakan Copilot di berbagai aplikasi Microsoft seperti Word, PowerPoint, Outlook, dan Obrolan Microsoft 365. Di Word, Anda dapat membuka panel Copilot melalui tab Beranda pada pita atau mulai menulis langsung pada dokumen untuk menghasilkan konten baru. Di PowerPoint, Copilot membantu membuat, merancang, dan memformat slide dengan mengetikkan konten presentasi Anda. Di Outlook, Copilot membantu manajemen kotak masuk dan penulisan email dengan cepat menyusun email dan meringkas utas email panjang. Terakhir, Obrolan Bisnis Microsoft 365 terintegrasi dengan data kerja dan aplikasi Anda untuk meningkatkan kreativitas, produktivitas, dan pengembangan keterampilan.
+# Ringkasan          
+
+Dalam modul ini, Anda telah mempelajari cara menggunakan Copilot di berbagai aplikasi Microsoft seperti Word, PowerPoint, Outlook, dan Obrolan Microsoft 365. Di Word, Anda dapat membuka panel Copilot melalui tab Beranda pada pita atau mulai menulis langsung pada dokumen untuk menghasilkan konten baru. Di PowerPoint, Copilot membantu membuat, merancang, dan memformat slide dengan mengetikkan konten presentasi Anda. Di Outlook, Copilot membantu manajemen kotak masuk dan penulisan email dengan cepat menyusun email dan meringkas utas email panjang. Terakhir, Microsoft 365 Copilot Chat terintegrasi dengan data kerja dan aplikasi Anda untuk meningkatkan kreativitas, produktivitas, dan pengembangan keterampilan.
 
 Poin utama dari pelajaran ini adalah:
 
@@ -18,4 +20,4 @@ Poin utama dari pelajaran ini adalah:
 
 - [Membuat draf pesan email dengan Copilot di Outlook](https://support.microsoft.com/office/draft-an-email-message-with-copilot-in-outlook-3eb1d053-89b8-491c-8a6e-746015238d9b)
 
-- [Menggunakan Obrolan Bisnis Microsoft 365 di Microsoft365.com/Copilot](https://support.microsoft.com/topic/use-microsoft-365-chat-at-microsoft365-com-or-in-the-microsoft-365-office-app-4a2538f9-962f-4c7c-a368-f6006bc13d6f)
+- [Menggunakan Microsoft 365 Copilot Chat di Microsoft365.com/Copilot](https://support.microsoft.com/topic/use-microsoft-365-chat-at-microsoft365-com-or-in-the-microsoft-365-office-app-4a2538f9-962f-4c7c-a368-f6006bc13d6f)

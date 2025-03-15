@@ -1,11 +1,12 @@
+# Memformat, mengurutkan, memfilter, dan menyoroti data menggunakan Microsoft 365 Copilot di Excel
 
-Dengan Microsoft 365 Copilot di Excel, mudah untuk menyoroti, mengurutkan, dan memfilter tabel Anda untuk dengan cepat memanggil perhatian pada hal yang penting bagi Anda. Dengan menggunakan satu tabel di Excel, Anda bisa membuat Copilot dengan mudah: 
+Dengan Microsoft 365 Copilot di Excel, mudah untuk menyoroti, mengurutkan, dan memfilter tabel Anda untuk dengan cepat memanggil perhatian pada hal yang penting bagi Anda. Dengan menggunakan satu tabel di Excel, Anda bisa membuat Copilot dengan mudah:
 
 - Urutkan dan filter data Anda.
 
 - Terapkan pemformatan bersyarat sederhana.
 
-Untuk memulai, format data Anda sebagai tabel dan pilih ikon **Copilot** di pita. Kemudian, beri tahu Copilot bagaimana Anda ingin memanipulasi tabel untuk melihat bagian data Anda dengan lebih baik. 
+Untuk memulai, format data Anda dalam [format yang didukung](https://support.microsoft.com/topic/format-data-for-copilot-in-excel-1604c8eb-57f1-4db1-8363-d53336228c65) dan pilih tombol **Copilot** pada pita. Kemudian, beri tahu Copilot bagaimana Anda ingin memanipulasi tabel untuk melihat bagian data Anda dengan lebih baik.
 
 Dalam contoh berikut, kita mulai dengan perintah sederhana dan menambahkan elemen di sepanjang jalan. Ikuti contoh menggunakan data Anda sendiri.
 
@@ -24,25 +25,29 @@ Dalam perintah sederhana ini, Anda mulai dengan perintah dasar **Tujuan**: _untu
 
 | Elemen | Contoh |
 | :------ | :------- |
-| Perintah dasar: <br>Mulai dengan **Tujuan** | **_Urutkan tabel ini..._** |
-| Perintah yang baik: <br>Tambahkan **Konteks** | **Menambahkan Konteks** dapat membantu Copilot memahami tujuan slide dan topik apa yang akan difokuskan.<br><br>"_...untuk mencari staf penjualan yang paling berdampak._" |
-| Perintah yang lebih baik: <br>Tentukan **Sumber** | **Sumber** untuk perintah ini diasumsikan sebagai tabel yang sedang kami kerjakan di Excel.<br><br>“_... tabel ini [Tabel1]..._” |
-| Perintah terbaik: <br>Tetapkan dengan jelas **Harapan** | Terakhir, menambahkan **Harapan** dapat membantu Copilot memahami bagaimana Anda ingin tabel diurutkan, difilter, dan disajikan.<br><br>"_Tambahkan kolom ketiga yang menghitung pendapatan bersih per pengguna yang terlibat, dengan memperhitungkan biaya anggarannya. Urutkan tabel ini dalam urutan menurun menurut pendapatan bersih per pengguna yang terlibat, lalu sorot pemilik baris teratas dan terbawah._" |
+| **Perintah dasar:** Mulai dengan **Tujuan** | **_Urutkan tabel ini..._** |
+| **Perintah yang baik:** Tambahkan **Konteks** | **Menambahkan Konteks** dapat membantu Copilot memahami tujuan slide dan topik apa yang akan difokuskan. _"...untuk mencari staf penjualan yang paling berdampak."_ |
+| **Perintah yang lebih baik:** Tentukan **Sumber** | **Sumber** untuk perintah ini diasumsikan sebagai tabel yang sedang kami kerjakan di Excel. _“... tabel ini [Tabel1]...”_ |
+| **Perintah terbaik:** Berikan **Ekspektasi** yang jelas | Terakhir, menambahkan **Harapan** dapat membantu Copilot memahami bagaimana Anda ingin tabel diurutkan, difilter, dan disajikan. _"dan menyoroti pemilik kampanye teratas dan terbawah berdasarkan pendapatan bersih."_ |
 
 > [!NOTE]
 > **Perintah yang dibuat**:
 >
-> _Urutkan tabel ini [Table1] untuk mencari tenaga penjual yang paling berdampak. Tambahkan kolom ketiga yang menghitung pendapatan bersih per pengguna yang terlibat, dengan memperhitungkan biaya anggarannya. Urutkan tabel ini dalam urutan menurun menurut pendapatan bersih per pengguna yang terlibat, lalu sorot pemilik baris teratas dan terbawah._
+> _Urutkan tabel ini [Table1] untuk mencari penjual yang paling berdampak dan menyoroti pemilik kampanye teratas dan bawah berdasarkan pendapatan bersih_
 
-Perintah ini memerlukan beberapa langkah untuk dieksekusi, sebuah teknik perintah yang disebut **penautan** di mana Anda meminta Copilot melakukan perintah berurutan dan terus-menerus untuk mencapai satu tujuan. 
+Perintah ini memerlukan beberapa langkah untuk dieksekusi, sebuah teknik perintah yang disebut **penautan** di mana Anda meminta Copilot melakukan perintah berurutan dan terus-menerus untuk mencapai satu tujuan.
 
-Dalam permintaan yang dibuat, Copilot memahaminya terlebih dahulu perlu menghasilkan rumus untuk kolom baru untuk menghitung pendapatan bersih per pengguna yang terlibat dan memasukkannya ke dalam tabel.
+**Perintah pertama**:
 
-![Cuplikan layar Copilot di Excel yang menghasilkan rumus untuk disisipkan ke dalam tabel.](../media/copilot-add-formula-excel.png)
+```text
+Sort this table [Table1] to look for the most impactful salesperson.
+```
 
-Sekarang setelah kolom baru dimasukkan ke dalam tabel, Anda dapat meminta Copilot mengurutkan tabel berdasarkan pendapatan bersih tertinggi per pengguna yang terlibat, serta menyoroti penjual atas dan bawah.
+**Perintah Kedua**:
 
-[![Cuplikan layar hasil perintah yang dibuat terhadap lembar bentang sampel menggunakan Copilot di Excel.](../media/copilot-sort-highlight-table-excel.png)](../media/copilot-sort-highlight-table-excel.png#lightbox)
+```text
+highlight the top and bottom campaign owners based off of net revenue
+```
 
 Perintah ini memiliki semua detail yang dibutuhkan - **Tujuan**, **Konteks**, **Sumber**, dan **Harapan** - sehingga Copilot dapat memberi Anda jawaban yang Anda cari.
 
@@ -59,4 +64,4 @@ Cobalah perintah sederhana ini untuk menyoroti, mengurutkan, dan memfilter data 
 - Filter ke item yang jatuh tempo minggu depan.
 
 > [!IMPORTANT]
-> Salinan hanya akan berfungsi pada file yang disimpan di OneDrive atau SharePoint. Jika Anda tidak dapat memilih tombol Copilot di pita, coba simpan file ke cloud terlebih dahulu. Untuk informasi lebih lanjut, lihat **[Sorot, urutkan, dan filter data Anda dengan Copilot di Excel](https://support.microsoft.com/office/highlight-sort-and-filter-your-data-with-copilot-in-excel-05302e3f-de42-4475-b235-be9cb3d4e936)**.
+> Salinan hanya akan berfungsi pada file yang disimpan di OneDrive atau SharePoint. Jika Anda tidak dapat memilih tombol Copilot di pita, coba simpan file ke cloud terlebih dahulu. Untuk informasi lebih lanjut, lihat [Sorot, urutkan, dan filter data Anda dengan Copilot di Excel](https://support.microsoft.com/office/highlight-sort-and-filter-your-data-with-copilot-in-excel-05302e3f-de42-4475-b235-be9cb3d4e936).

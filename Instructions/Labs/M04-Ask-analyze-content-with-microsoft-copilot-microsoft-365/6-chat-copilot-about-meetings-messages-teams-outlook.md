@@ -1,5 +1,6 @@
+# Tanyakan tentang rapat dan pesan Anda dengan Microsoft 365 Copilot di Teams
 
-Microsoft 365 Copilot dalam rapat dan panggilan Teams membantu Anda mengambil item tindakan, perspektif yang berbeda berdasarkan topik, atau pertanyaan yang tidak terselesaikan. Anda bahkan dapat meminta Copilot untuk memberikan jawaban dalam bentuk tabel sehingga menghasilkan tabel markdown yang siap untuk disalin dan dibagikan. 
+Rapat dan panggilan Copilot di Teams membantu Anda mengambil item tindakan, perspektif yang berbeda berdasarkan topik, atau pertanyaan yang tidak terselesaikan. Anda bahkan dapat meminta Copilot untuk memberikan jawaban dalam bentuk tabel sehingga menghasilkan tabel markdown yang siap untuk disalin dan dibagikan.
 
 Copilot di Teams menggunakan konten obrolan dan rapat Teams Anda untuk menghasilkan wawasan dan saran yang dapat ditindak lanjuti bersama titik sentuh Teams yang paling penting. Copilot di Teams bersifat kontekstual terhadap apa pun yang Anda lakukan. Misalnya, Anda dapat mengakses panel Copilot dalam obrolan, rapat, atau panggilan, selama beberapa kondisi terpenuhi:
 
@@ -9,13 +10,13 @@ Copilot di Teams menggunakan konten obrolan dan rapat Teams Anda untuk menghasil
 
 ## Mengakses Copilot selama rapat
 
-1. Selama rapat atau panggilan, pilih **Copilot** dari kontrol rapat. Jika transkripsi belum diaktifkan, Anda akan diminta untuk mengaktifkannya. 
+1. Selama rapat atau panggilan, pilih **Copilot** dari kontrol rapat. Jika transkripsi belum diaktifkan, Anda akan diminta untuk mengaktifkannya.
 
-    ![Cuplikan layar ikon Copilot dalam rapat Teams.](../media/copilot-ribbon-teams.png)
+    ![Cuplikan layar ikon Copilot dalam rapat Teams.](../media/ask_copilot-ribbon-teams.png)
 
 1. Salinan muncul di panel di sisi kanan jendela rapat. Setelah rapat selesai, pilih rapat Anda di **Kalender Teams**. Dari sana, pilih tab **Rekap** di detail rapat Anda. Anda juga dapat mengakses panel Copilot dari rekap rapat untuk mengajukan pertanyaan tentang rapat.
 
-    ![Cuplikan layar panel obrolan Copilot di Teams saat pertama kali dibuka.](../media/copilot-pane-teams.png)
+    ![Cuplikan layar panel obrolan Copilot di Teams saat pertama kali dibuka.](../media/ask_copilot-pane-teams.png)
 
 ## Mulai dari yang sederhana dan tambahkan detail
 
@@ -28,10 +29,10 @@ Dalam perintah sederhana ini, Anda mulai dengan **Tujuan** dasar: _mengidentifik
 
 | Elemen | Contoh |
 | :------ | :------- |
-| Perintah dasar: <br>Mulai dengan **Tujuan** | **Pertanyaan apa yang belum terselesaikan dalam pertemuan ini?** |
-| Perintah yang baik: <br>Tambahkan **Konteks** | Menambahkan **Konteks** dapat membantu Copilot memahami tujuan dan menyesuaikan respons yang sesuai.<br><br>“_... dalam pertemuan dengan klien mengenai proposal proyek baru_” |
-| Perintah yang lebih baik: <br>Tentukan **Sumber** | Menambahkan **Sumber** dapat membantu Copilot memahami rapat atau bagian mana dari rapat yang perlu dicari, namun dalam kasus ini **Sumber** sudah diasumsikan.<br><br>"_dalam rapat klien_?" |
-| Perintah terbaik: <br>Tetapkan dengan jelas **Harapan** | Terakhir, menambahkan **Harapan** dapat membantu Copilot memahami apa yang harus dilakukan dengan informasi yang ditemukannya.<br><br>"_Harap identifikasi pertanyaan atau kekhawatiran apa pun yang dimunculkan tetapi tidak dibahas dalam rapat terakhir. Harap berikan saran untuk mengatasi pertanyaan dan kekhawatiran ini dalam rapat berikutnya._" |
+| **Perintah dasar:** Mulai dengan **Tujuan** | **Pertanyaan apa yang belum terselesaikan dalam pertemuan ini?** |
+| **Perintah yang baik:** Tambahkan **Konteks** | Menambahkan **Konteks** dapat membantu Copilot memahami tujuan dan menyesuaikan respons yang sesuai. _“... dalam pertemuan dengan klien mengenai proposal proyek baru.”_ |
+| **Perintah yang lebih baik:** Tentukan **Sumber** | Menambahkan **Sumber** dapat membantu Copilot memahami rapat atau bagian mana dari rapat yang perlu dicari, namun dalam kasus ini **Sumber** sudah diasumsikan. _"dalam rapat klien?"_ |
+| **Perintah terbaik:** Berikan **Ekspektasi** yang jelas | Terakhir, menambahkan **Harapan** dapat membantu Copilot memahami apa yang harus dilakukan dengan informasi yang ditemukannya. _"Harap identifikasi pertanyaan atau kekhawatiran apa pun yang dikemukakan tetapi tidak dibahas dalam rapat terakhir. Harap berikan saran untuk mengatasi pertanyaan dan kekhawatiran ini dalam rapat berikutnya."_ |
 
 > [!NOTE]
 > **Perintah yang dibuat**:
@@ -42,12 +43,12 @@ Dalam perintah ini, **Tujuan**, **Konteks**, **Sumber**, dan **Harapan** semuany
 
 ## Lihat selengkapnya
 
-Saat pertama kali membuka **Copilot di Teams**, Anda diberi beberapa tips untuk menggunakan Copilot dan permintaan yang disarankan untuk memulai. Dengan memproses transkrip rapat dan obrolan, ia menghasilkan respons terhadap perintah seperti: 
+Saat pertama kali membuka **Copilot di Teams**, Anda diberi beberapa tips untuk menggunakan Copilot dan permintaan yang disarankan untuk memulai. Dengan memproses transkrip rapat dan obrolan, ia menghasilkan respons terhadap perintah seperti:
 
-- Pertanyaan apa yang belum terselesaikan dalam pertemuan ini? 
+- Pertanyaan apa yang belum terselesaikan dalam pertemuan ini?
 
-- Pendapat apa yang dimiliki anggota tim tentang kampanye ini? 
+- Pendapat apa yang dimiliki anggota tim tentang kampanye ini?
 
-- Buat tabel pro dan kontra untuk kampanye ini. 
+- Buat tabel pro dan kontra untuk kampanye ini.
 
-Untuk skenario selengkapnya tentang cara menggunakan Copilot dalam rapat Teams, lihat [Mulai menggunakan Copilot dalam rapat Microsoft Teams](https://support.microsoft.com/office/get-started-with-copilot-in-microsoft-teams-meetings-0bf9dd3c-96f7-44e2-8bb8-790bedf066b1). 
+Untuk skenario selengkapnya tentang cara menggunakan Copilot dalam rapat Teams, lihat [Mulai menggunakan Copilot dalam rapat Microsoft Teams](https://support.microsoft.com/office/get-started-with-copilot-in-microsoft-teams-meetings-0bf9dd3c-96f7-44e2-8bb8-790bedf066b1).
