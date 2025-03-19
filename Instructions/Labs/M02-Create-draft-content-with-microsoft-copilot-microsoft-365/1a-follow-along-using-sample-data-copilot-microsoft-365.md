@@ -18,7 +18,7 @@ Ikuti langkah-langkah di bawah ini untuk mengunggah semua file yang diperlukan k
 4. Di bawah **Selamat Datang di Microsoft 365**, pilih **Masuk**.
 5. Pada **permintaan Masuk**, masukkan `userx@yourtenant.onmicrosoft.com` (nama pengguna dan penyewa yang disediakan oleh penyewa Anda) dan pilih **Berikutnya**.
 
-    [![Tangkap layar panel sumber daya dalam Skillable](../media/lab_resources_password.png)](../media/lab_resources_password.png#lightbox)
+    [![Tangkap layar panel sumber daya ](../media/lab_resources_password.png)](../media/lab_resources_password.png#lightbox)
 
 6. Di layar **Masukkan kata sandi**, masukkan kata sandi (disediakan oleh penyedia penyewa) untuk akun Pengguna, lalu pilih **Masuk**.
 7. Jika diminta untuk **Tetap masuk**, pilih **Jangan tampilkan ini lagi** lalu **Ya**.
