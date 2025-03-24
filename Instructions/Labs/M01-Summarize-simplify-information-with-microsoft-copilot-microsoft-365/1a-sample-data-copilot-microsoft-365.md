@@ -16,7 +16,7 @@ Ikuti langkah-langkah di bawah ini untuk mengunggah semua file yang diperlukan k
 
 1. Masuk ke komputer virtual yang disediakan oleh penyedia penyewa Anda sebagai akun **Administrator** lokal dengan kata sandi `Pa55w.rd`.
 2. Pada taskbar, pilih ikon **Microsoft Edge**.
-3. Di bilah alamat, masukkan `https://www.office.com`.
+3. Di bilah alamat, masukkan `https://onedrive.live.com/login`.
 4. Di bawah **Selamat Datang di Microsoft 365**, pilih **Masuk**.
 5. Pada **permintaan Masuk**, masukkan `userx@yourtenant.onmicrosoft.com` (nama pengguna dan penyewa yang disediakan oleh penyewa Anda) dan pilih **Berikutnya**.
 
@@ -24,16 +24,14 @@ Ikuti langkah-langkah di bawah ini untuk mengunggah semua file yang diperlukan k
 
 6. Di layar **Masukkan kata sandi**, masukkan kata sandi (disediakan oleh penyedia penyewa) untuk akun Pengguna, lalu pilih **Masuk**.
 7. Jika diminta untuk **Tetap masuk**, pilih **Jangan tampilkan ini lagi** lalu **Ya**.
+8. Di **OneDrive**, di sudut kiri atas, pilih **+**(tambahkan baru) > **Unggahan file**.
 
-    **Catatan:** Jika halaman web tampak kabur setelah masuk, refresh halaman.
+    [![Tangkapan layar tambahkan file baru](../media/add_new.png)](../media/add_new.png#lightbox)
 
-8. Di **Microsoft 365**, pilih **Aplikasi**.
-9. Dalam **Aplikasi**, pilih **OneDrive**.
-10. Di **OneDrive**, di sudut kiri atas, pilih **+**(tambahkan baru) > **Unggahan file**.
-11. Di **File Explorer**, select **This PC** > **Local Disk (C:)** dan buka **folder ResourceFiles.**
-12. Pilih semua file dalam folder **ResourceFiles**, lalu pilih **Buka** untuk mengunggahnya ke **OneDrive**.
-13. Setelah pengunggahan selesai, Anda akan melihat **29 item yang diunggah ke My files** di tengah bawah layar.
-14. Biarkan **Edge** terbuka dan lanjutkan ke tugas berikutnya.
+9. Di **File Explorer**, select **This PC** > **Local Disk (C:)** dan buka **folder ResourceFiles.**
+10. Pilih semua file dalam folder **ResourceFiles**, lalu pilih **Buka** untuk mengunggahnya ke **OneDrive**.
+11. Setelah pengunggahan selesai, Anda akan melihat **29 item yang diunggah ke My files** di tengah bawah layar.
+12. Biarkan **Edge** terbuka dan lanjutkan ke tugas berikutnya.
 
 ### Mereferensi file
 
